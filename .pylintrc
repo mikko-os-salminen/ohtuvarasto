@@ -19,6 +19,12 @@ disable=raw-checker-failed,
 
 [FORMAT]
 
+max-line-length=80
+
 [REFACTORING]
 
+max-nested-blocks=2
+
 [DESIGN]
+
+max-statements=10
